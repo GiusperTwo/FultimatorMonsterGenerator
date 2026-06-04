@@ -1,0 +1,68 @@
+# ---------------------------------------------------
+# Byte-compiled / arquivos otimizados (Remove o pycache)
+# ---------------------------------------------------
+__pycache__/
+*.py[cod]
+*$py.class
+
+# ---------------------------------------------------
+# Ambientes Virtuais (envs futuras)
+# ---------------------------------------------------
+venv/
+env/
+ENV/
+.venv/
+.env/
+env.bak/
+venv.bak/
+
+# ---------------------------------------------------
+# Variáveis de ambiente (Segurança)
+# ---------------------------------------------------
+.env
+
+# ---------------------------------------------------
+# Empacotamento e Distribuição
+# ---------------------------------------------------
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# ---------------------------------------------------
+# Testes e Cache de Ferramentas
+# ---------------------------------------------------
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# ---------------------------------------------------
+# Configurações de IDEs e Editores de Texto
+# ---------------------------------------------------
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ---------------------------------------------------
+# Arquivos de Sistema Operacional
+# ---------------------------------------------------
+.DS_Store
+Thumbs.db
